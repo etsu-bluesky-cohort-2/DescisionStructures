@@ -127,7 +127,6 @@ Console.Write("Is it on heads or tails? ");
 string penny = Console.ReadLine();
 
 
-
 if (penny.ToUpper() == "HEADS")
 {
     Console.WriteLine("I picked up the penny!");
